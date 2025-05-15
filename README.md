@@ -22,5 +22,6 @@ Ini merupakan aplikasi yang kami rancang untuk merekomendasikan wisata disekitar
    ```bash
    git clone https://github.com/username/jelajah-jatim.git
    cd jelajah-jatim
-pip install -r requirements.txt
-streamlit run "PENJELAJAH KOTA.py"
+   pip install -r requirements.txt
+   streamlit run "PENJELAJAH KOTA.py"
+
