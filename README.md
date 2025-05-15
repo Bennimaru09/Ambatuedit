@@ -15,13 +15,60 @@ Ini merupakan aplikasi yang kami rancang untuk merekomendasikan wisata disekitar
 
 ## 📂 Struktur Folder
 
+Ambatuedit/
+├── PENJELAJAH KOTA.py # File utama aplikasi Streamlit
+├── requirements.txt # Daftar dependensi Python
+└── README.md # Dokumentasi proyek
+
+
+---
+🛠 Teknologi
+- Python 3.9+
+
+- Streamlit
+
+- Pandas
+
+- NumPy
+
+- Scikit-learn
+
+- Plotly
+
+
+## 🛠️ requirements.txt
+
+Berikut adalah dependensi Python yang digunakan oleh aplikasi:
+
+```txt
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+```
+Untuk menginstalnya, cukup jalankan:
+```pip install -r requirements.txt```
 
 ## 🚀 Cara Menjalankan Aplikasi
 
-1. **Clone repo ini:**
-   ```bash
-   git clone https://github.com/username/jelajah-jatim.git
-   cd jelajah-jatim
-   pip install -r requirements.txt
-   streamlit run "PENJELAJAH KOTA.py"
+## 1. Clone repository dari GitHub
+```git clone https://github.com/Bennimaru09/Ambatuedit.git```
+
+## 2. Masuk ke folder hasil clone 
+```cd Ambatuedit```
+
+## 3. Install library yang dibutuhkan 
+```pip install -r requirements.txt```
+
+## 4. Jalankan aplikasi Streamlit
+```streamlit run "PENJELAJAH KOTA.py"```
+
+## 👨‍💻 Developer
+1. Isni Khairul Fahmi - 1206230009
+2. Azarya Elroi Banunaek - 1206230013
+3. Luis Vigo - 1206230027
+4. Muhammad Darmawan Wirayudha - 1206230063
+5. Muhammad Rizky Libradi - 1206230069
+
 
